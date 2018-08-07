@@ -1,0 +1,14 @@
+img{
+	/* align to edge of .row */
+	margin-left: -15px;
+}
+
+p{
+	margin-top: 0;
+}
+
+.container{
+	width: 600px;
+	border: 1px solid rgb(225, 225, 225);
+  	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+}

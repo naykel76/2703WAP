@@ -1,0 +1,314 @@
+.primary {
+  background-color: #003049;
+  color: #fff;
+  border: 1px solid #000e16;
+}
+.primary .heading {
+  color: #d897f7;
+}
+.primary a {
+  color: #fff;
+}
+.primary a:hover {
+  color: #d9d9d9;
+}
+.secondary {
+  background-color: #f77f00;
+  color: #fff;
+  border: 1px solid #c46500;
+}
+.secondary a {
+  color: #fff;
+}
+.secondary a:hover {
+  color: #d9d9d9;
+}
+.alt {
+  background-color: #d62828;
+  color: #fff;
+  border: 1px solid #ab2020;
+}
+.alt a {
+  color: #fff;
+}
+.alt a:hover {
+  color: #d9d9d9;
+}
+.dark {
+  background-color: #222;
+  color: #ddd;
+  border: 1px solid #626262;
+}
+.dark a {
+  color: #fafafa;
+}
+.dark a:hover {
+  color: #999;
+}
+.dark .heading {
+  color: #d897f7;
+}
+.light {
+  background-color: #fafafa;
+  color: #666;
+  border: 1px solid #e1e1e1;
+}
+@phone : (min-width: @sm-screen);
+.b1 {
+  background: #404040;
+}
+.b2 {
+  background: #4d4d4d;
+}
+.b3 {
+  background: #595959;
+}
+.b4 {
+  background: #666666;
+}
+.b5 {
+  background: #737373;
+}
+.b6 {
+  background: #808080;
+}
+.b7 {
+  background: #8c8c8c;
+}
+.b8 {
+  background: #999999;
+}
+.b9 {
+  background: #a6a6a6;
+}
+.b10 {
+  background: #b3b3b3;
+}
+.b11 {
+  background: #bfbfbf;
+}
+.b12 {
+  background: #cccccc;
+}
+.b13 {
+  background: #d9d9d9;
+}
+.b14 {
+  background: #e6e6e6;
+}
+.b15 {
+  background: #f2f2f2;
+}
+.bg1 {
+  background: #003049;
+}
+.bg2 {
+  background: #004162;
+}
+.bg3 {
+  background: #00527c;
+}
+.bg4 {
+  background: #006295;
+}
+.bg5 {
+  background: #0073af;
+}
+.bg6 {
+  background: #0084c9;
+}
+.bg7 {
+  background: #0095e2;
+}
+.bg8 {
+  background: #00a5fb;
+}
+.bg9 {
+  background: #16afff;
+}
+.bg10 {
+  background: #30b8ff;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.tal {
+  text-align: left;
+}
+.tar {
+  text-align: right;
+}
+.tac {
+  text-align: center;
+}
+.taj {
+  text-align: justify;
+}
+.nbg {
+  background-color: transparent;
+}
+.bdr {
+  border: 1px solid #ddd;
+}
+.nm {
+  margin: 0 !important;
+}
+.nbm {
+  margin-bottom: 0 !important;
+}
+.ntm {
+  margin-top: 0 !important;
+}
+.mar-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.mar {
+  margin: 1rem !important;
+}
+.mar-t {
+  margin-top: 1rem !important;
+}
+.mar-b {
+  margin-bottom: 1rem !important;
+}
+.mar-l {
+  margin-left: 1rem !important;
+}
+.mar-r {
+  margin-right: 1rem !important;
+}
+.mar-sm {
+  margin: 0.5rem !important;
+}
+.mar-sm {
+  margin: 0.5rem !important;
+}
+.mar-sm-t {
+  margin-top: 0.5rem !important;
+}
+.mar-sm-b {
+  margin-bottom: 0.5rem !important;
+}
+.mar-sm-tb {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+.mar-lg {
+  margin: 3rem !important;
+}
+.mar-lg-t {
+  margin-top: 3rem !important;
+}
+.mar-lg-b {
+  margin-bottom: 3rem !important;
+}
+.mar-lg-l {
+  margin-right: 3rem !important;
+}
+.mar-lg-r {
+  margin-right: 3rem !important;
+}
+.mar-lg-tb {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+.np {
+  padding: 0 !important;
+}
+.pad {
+  padding: 1rem !important;
+}
+.pad-l {
+  padding-left: 1rem !important;
+}
+.pad-r {
+  padding-right: 1rem !important;
+}
+.pad-tb {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+.pad-sm {
+  padding: 0.5rem !important;
+}
+.pad-sm-lr {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}
+.pad-sm-tb {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+.pad-md {
+  padding: 2rem !important;
+}
+.pad-md-lr {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+.pad-md-tb {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+.pad-lg {
+  padding: 3rem !important;
+}
+.pad-lg-tb {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+.pad-xl {
+  padding: 5rem !important;
+}
+.pad-xl-lr {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important;
+}
+.pad-xl-tb {
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+}
+.dilb {
+  display: inline-block;
+}
+.dbl {
+  display: block;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+[class*='pos-'] {
+  position: absolute !important;
+}
+.pos-t {
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.pos-b {
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.pos-tl {
+  top: 0;
+  left: 0;
+}
+.pos-tr {
+  top: 0;
+  right: 0;
+}
+.pos-bl {
+  bottom: 0;
+  left: 0;
+}
+.pos-br {
+  bottom: 0;
+  right: 0;
+}

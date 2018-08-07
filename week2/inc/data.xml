@@ -1,0 +1,65 @@
+<posts>
+    <post>
+        <username>mikey1983</username>
+        <date>25/12/2017</date>
+        <time>3:57pm</time>
+        <message>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam soluta nemo nobis?</message>
+        <image>../images/guitar.jpg</image>
+        <comment>
+            <username>kyle</username>
+            <date>26/12/2017</date>
+            <time>8:27am</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit.!</message>
+        </comment>
+        <comment>
+            <username>luke_14</username>
+            <date>27/12/2017</date>
+            <time>10:07am</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolore!</message>
+        </comment>
+    </post>
+    <post>
+        <username>sue_zipy</username>
+        <date>5/01/2018</date>
+        <time>8:13am</time>
+        <message>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nemo delectus dicta!</message>
+        <image>../images/barbie.jpg</image>
+        <comment>
+            <username>xTraT77</username>
+            <date>27/12/2017</date>
+            <time>10:30pm</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</message>
+        </comment>
+        <comment>
+            <username>franko</username>
+            <date>05/2018</date>
+            <time>11:47am</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas obcaecati omnis error, tempora expedita explicabo earum necessitatibus dicta, natus, quam distinctio quos rerum vitae! Neque?</message>
+        </comment>
+        <comment>
+            <username>sue_zipy</username>
+            <date>06/2018</date>
+            <time>10:52am</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit.!</message>
+        </comment>
+    </post>
+    <post>
+        <username>joXyz</username>
+        <date>26/02/2018</date>
+        <time>11:30pm</time>
+        <message>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati nulla incidunt aut!</message>
+        <image>../images/spiderman.jpg</image>
+        <comment>
+            <username>mrs.magoo</username>
+            <date>26/02/2018</date>
+            <time>3:30pm</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dolore, dolorem necessitatibus, ea iure sed non voluptatem aliquam fugit.</message>
+        </comment>
+        <comment>
+            <username>mrs.magoo</username>
+            <date>26/02/2018</date>
+            <time>3:33pm</time>
+            <message>Lorem ipsum dolor sit amet, consectetur adipisicing elit.!</message>
+        </comment>
+    </post>
+</posts>
